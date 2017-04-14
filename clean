@@ -1,0 +1,1 @@
+idris --clean test.ipkg
