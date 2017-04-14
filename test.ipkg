@@ -1,0 +1,11 @@
+package test
+
+modules = main
+
+sourcedir = src
+
+main = main
+
+opts = "--codegen Node --warnpartial"
+
+executable = "main.js"
